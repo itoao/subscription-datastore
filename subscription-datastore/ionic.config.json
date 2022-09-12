@@ -1,0 +1,7 @@
+{
+  "name": "subscription-datastore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
