@@ -10,6 +10,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@aws-amplify/datastore": "^3.12.10",
     "@capacitor/app": "4.0.1",
     "@capacitor/core": "4.2.0",
     "@capacitor/haptics": "4.0.1",
@@ -17,6 +18,7 @@
     "@capacitor/status-bar": "4.0.1",
     "@ionic/vue": "^6.0.0",
     "@ionic/vue-router": "^6.0.0",
+    "aws-amplify": "^4.3.35",
     "core-js": "^3.6.5",
     "ionicons": "^6.0.3",
     "vue": "^3.2.21",
